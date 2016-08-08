@@ -271,28 +271,22 @@ function create_config( )
     "FileManager",
     "Invite"
     },
-    sudo_users = {175636120,185264953,198794027,219339258},
+    sudo_users = {235162148,132663128},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[👑 Signal Bot 👑
+    about_text = [[👑 UBUNTU 👑
 An advanced administration bot based on TG-CLI written in Lua
 
-🔰 Github 🔰
-https://github.com/SIGNALTEAM/SignalTG.git
-
 Admins:
-🔥 @ThisIsPouria [Founder & Developer] 🔥
+🔥 @THELUADEV [Founder & Developer] 🔥
 
-🔥 @Redteam_01_01 [Sudo & Manager] 🔥
+🔥 @THEDEVLUA [Sudo & Manager] 🔥
 
-🔥 @It_Is_Crazy [Sudo] 🔥
+🔥 @Nooloven [Sudo] 🔥
 
-🔥 @Im_Best_Sudo [Sudo] 🔥
-
-Special thanks to
-SEEDTEAM
+🔥 @MAMAD_TITANAM [Sudo] 🔥
 
 Our channels
-@SignalTM
+@UBUNTU_Team
 ]],
     help_text_realm = [[
 Realm Commands:
